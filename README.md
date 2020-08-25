@@ -5,6 +5,8 @@
 
 > [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) as Svelte components.
 
+Try it in the [Svelte REPL](https://svelte.dev/repl/8562c4d563724c85a7940a57499c5140?version=3.24.1).
+
 ## [Icon Preview](https://metonym.github.io/svelte-super-tiny-icons/)
 
 ## Install
