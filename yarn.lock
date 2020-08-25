@@ -7,7 +7,7 @@ opencollective-postinstall@^2.0.2:
   resolved "https://registry.yarnpkg.com/opencollective-postinstall/-/opencollective-postinstall-2.0.3.tgz#7a0fff978f6dbfa4d006238fbac98ed4198c3259"
   integrity sha512-8AV/sCtuzUeTo8gQK5qDZzARrulB3egtLzFgteqB2tcT4Mw7B8Kt7JcDHmltjz6FOAHsvTevk70gZEbhM4ZS9Q==
 
-super-tiny-icons@^0.3.2:
+super-tiny-icons@0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/super-tiny-icons/-/super-tiny-icons-0.3.2.tgz#dfcb56265b3a3b04b26c7f9b462ba11c6ab58eb8"
   integrity sha512-+cYkdElhyJbNBNDMyXUdsh7BlgywqKjkBUylxgMYWmJawvBGxD29f3rpueMcj2RHoSrdJzHwsDFJciWxcTeR4Q==
@@ -15,9 +15,9 @@ super-tiny-icons@^0.3.2:
     opencollective-postinstall "^2.0.2"
 
 svelte@^3.24.0:
-  version "3.24.0"
-  resolved "https://registry.npmjs.org/svelte/-/svelte-3.24.0.tgz#6565a42c9705796fa66c6abb4fedc09f4323a4a8"
-  integrity sha512-VFXom6EP2DK83kxy4ZlBbaZklSbZIrpNH3oNXlPYHJUuW4q1OuAr3ZoYbfIVTVYPDgrI7Yq0gQcOhDlAtO4qfw==
+  version "3.24.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.24.1.tgz#aca364937dd1df27fe131e2a4c234acb6061db4b"
+  integrity sha512-OX/IBVUJSFo1rnznXdwf9rv6LReJ3qQ0PwRjj76vfUWyTfbHbR9OXqJBnUrpjyis2dwYcbT2Zm1DFjOOF1ZbbQ==
 
 svg-to-svelte@^2.0.0:
   version "2.0.0"
