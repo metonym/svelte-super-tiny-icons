@@ -1,0 +1,33 @@
+{
+  "name": "svelte-super-tiny-icons",
+  "version": "0.4.0",
+  "license": "MIT",
+  "description": "Super Tiny Icons as Svelte components",
+  "author": "Eric Liu (https://github.com/metonym)",
+  "svelte": "./lib/index.js",
+  "main": "./lib/index.js",
+  "sideEffects": false,
+  "scripts": {
+    "prepack": "node build"
+  },
+  "devDependencies": {
+    "super-tiny-icons": "0.3.2",
+    "svg-to-svelte": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metonym/svelte-super-tiny-icons.git"
+  },
+  "homepage": "https://github.com/metonym/svelte-super-tiny-icons",
+  "bugs": "https://github.com/metonym/svelte-super-tiny-icons/issues",
+  "keywords": [
+    "svelte",
+    "svelte component",
+    "super-tiny-icons",
+    "icon",
+    "svg"
+  ],
+  "files": [
+    "lib"
+  ]
+}
