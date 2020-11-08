@@ -1,6 +1,6 @@
 # Icon Index
 
-> 229 icons from svelte-super-tiny-icons@0.3.2.
+> 275 icons from svelte-super-tiny-icons@0.4.0.
 
 ## Usage
 
@@ -16,6 +16,7 @@
 
 - Acast
 - Access
+- Adobe
 - Airbnb
 - Amazon
 - AmazonAlexa
@@ -23,11 +24,13 @@
 - Amberframework
 - Andotp
 - Android
+- Angellist
 - Angular
 - Ansible
 - Apereo
 - Apple
-- Archlinux
+- AppleMusic
+- ArchLinux
 - Auth0
 - Authy
 - Backbone
@@ -45,11 +48,14 @@
 - Calendar
 - Centos
 - Chrome
+- Chromium
 - Clojure
 - Cloudflare
+- Codeberg
 - Codepen
 - Coffeescript
 - Coil
+- Coinpot
 - Crystal
 - Debian
 - Deezer
@@ -69,6 +75,7 @@
 - Ea
 - Ebay
 - Edge
+- Element
 - Elementaryos
 - Email
 - Epub
@@ -76,24 +83,37 @@
 - Ethereum
 - Evernote
 - Facebook
+- Finder
 - Firefox
 - Flattr
 - Flickr
 - Flutter
+- Freecodecamp
+- Friendica
+- Fritz
+- Gandi
 - Gatehub
 - Ghost
 - Git
 - Gitea
 - Github
 - Gitlab
+- Glitch
 - Gmail
+- GmailOld
 - Go
 - Gogcom
 - Gojek
 - Goodreads
 - Google
+- GoogleCalendar
+- GoogleCollaborativeContentTools
+- GoogleDocsEditors
 - GoogleDrive
+- GoogleDriveOld
 - GoogleMaps
+- GoogleMapsOld
+- GoogleMeet
 - GooglePlay
 - GooglePlus
 - GooglePodcasts
@@ -104,8 +124,10 @@
 - Hackerone
 - Haml
 - Heroku
+- Homekit
 - Hp
 - Html5
+- Humblebundle
 - Ibm
 - Iheartradio
 - Imdb
@@ -113,15 +135,21 @@
 - Instagram
 - Intel
 - InternetArchive
+- ItchIo
 - ItunesPodcasts
 - Java
 - Javascript
+- Jellyfin
 - Json
 - Julia
+- Kaggle
+- Keepassdx
 - Kemal
+- Keskonfai
 - Keybase
 - Kickstarter
 - KoFi
+- Kodi
 - Kotlin
 - Laravel
 - Lastpass
@@ -129,8 +157,10 @@
 - Line
 - Linkedin
 - Linux
+- LinuxMint
 - Lock
 - Luckyframework
+- Macos
 - Mail
 - Mailchimp
 - Markdown
@@ -139,7 +169,9 @@
 - Medium
 - Meetup
 - Messenger
+- Microformats
 - Microsoft
+- Minecraft
 - Nextcloud
 - Nhs
 - Npm
@@ -150,6 +182,7 @@
 - Opencollective
 - Opencores
 - Opensource
+- Openvpn
 - Opera
 - Orcid
 - Overcast
@@ -160,9 +193,11 @@
 - Php
 - Pinboard
 - Pinterest
+- Pixelfed
 - Plex
 - Pocket
 - Pocketcasts
+- Preact
 - Print
 - Protonmail
 - Python
@@ -172,16 +207,21 @@
 - Reddit
 - Redhat
 - Researchgate
+- Roundcube
 - Rss
 - Ruby
 - Rubygems
 - Rubyonrails
 - Rust
 - Safari
-- Samsunginternet
+- Samsung
+- SamsungInternet
+- SamsungS
+- SamsungSwoop
 - Sass
 - Semaphoreci
 - Sentry
+- Signal
 - Sketch
 - Skype
 - Slack
@@ -196,11 +236,13 @@
 - Stitcher
 - Strava
 - Stumbleupon
+- Svelte
+- Svg
 - Symantec
 - Taiga
+- Teamspeak
 - Telegram
 - Threema
-- Tiktok
 - Tox
 - Trello
 - Tripadvisor
@@ -216,6 +258,8 @@
 - Ubuntu
 - Unicode
 - Untappd
+- Uphold
+- Uplay
 - Upwork
 - Vegetarian
 - Venmo
@@ -233,6 +277,7 @@
 - Wikipedia
 - Windows
 - Wire
+- Wireguard
 - Wordpress
 - Workato
 - Xing
@@ -243,3 +288,4 @@
 - Yelp
 - Youtube
 - Yubico
+- Zoom

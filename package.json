@@ -11,7 +11,7 @@
     "prepack": "node build"
   },
   "devDependencies": {
-    "super-tiny-icons": "0.3.2",
+    "super-tiny-icons": "0.4.0",
     "svg-to-svelte": "^2.0.0"
   },
   "repository": {
