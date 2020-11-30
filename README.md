@@ -7,8 +7,6 @@
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/8562c4d563724c85a7940a57499c5140?version=3.24.1).
 
-## [Icon Preview](https://metonym.github.io/svelte-super-tiny-icons/)
-
 ## Install
 
 This zero dependency library requires Svelte version >=3.20 because it uses `$$restProps`.
@@ -23,11 +21,10 @@ npm -i -D svelte-super-tiny-icons
 
 ```svelte
 <script>
-  import { Hackernews, Svelte } from "svelte-super-tiny-icons";
+  import { Svelte } from "svelte-super-tiny-icons";
 </script>
 
-<Hackernews height="{32}" />
-<Svelte height="{32}" />
+<Svelte width="{48}" />
 ```
 
 See [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
