@@ -21,12 +21,13 @@ npm -i -D svelte-super-tiny-icons
 
 ## Usage
 
-```html
+```svelte
 <script>
-  import Acast from "svelte-super-tiny-icons/lib/Acast";
+  import { Hackernews, Svelte } from "svelte-super-tiny-icons";
 </script>
 
-<Acast width="{48}" height="{48}" />
+<Hackernews height="{32}" />
+<Svelte height="{32}" />
 ```
 
 See [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
@@ -42,6 +43,21 @@ See [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
 - on:mouseenter
 - on:mouseout
 - on:keydown
+
+## Rendering with `svelte:component`
+
+```svelte
+<script>
+  import * as icons from "svelte-super-tiny-icons";
+</script>
+
+{#each Object.keys(icons) as icon}
+  <div>
+    <svelte:component title="{icon}" this={icons[icon]} height={48} />
+    {icon}
+  </div>
+{/each}
+```
 
 ## [Changelog](CHANGELOG.md)
 
