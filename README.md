@@ -4,9 +4,9 @@
 
 > [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) as Svelte components.
 
-Try it in the [Svelte REPL](https://svelte.dev/repl/8562c4d563724c85a7940a57499c5140?version=3.24.1).
-
 <!-- REPO_URL -->
+
+Try it in the [Svelte REPL](https://svelte.dev/repl/8562c4d563724c85a7940a57499c5140?version=3.24.1).
 
 ---
 
@@ -29,7 +29,7 @@ npm i -D svelte-super-tiny-icons
   import { Svelte } from "svelte-super-tiny-icons";
 </script>
 
-<Svelte width="{48}" />
+<Svelte width={48} />
 ```
 
 See [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
@@ -55,7 +55,7 @@ See [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
 
 {#each Object.keys(icons) as icon}
   <div>
-    <svelte:component title="{icon}" this={icons[icon]} height={48} />
+    <svelte:component this={icons[icon]} title={icon} height={48} />
     {icon}
   </div>
 {/each}
