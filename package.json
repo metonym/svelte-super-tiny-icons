@@ -9,7 +9,7 @@
   "sideEffects": false,
   "scripts": {
     "dev": "rollup -cw",
-    "predeploy": "node build && rollup -c",
+    "predeploy": "rollup -c",
     "deploy": "npx gh-pages -d dist",
     "prepack": "s2s --input=node_modules/super-tiny-icons/images/svg"
   },

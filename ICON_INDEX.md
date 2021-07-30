@@ -1,6 +1,6 @@
 # Icon Index
 
-> 275 icons from svelte-super-tiny-icons@0.4.0.
+> 275 icons from svelte-super-tiny-icons@0.4.1.
 
 ## Usage
 
