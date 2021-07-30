@@ -6,19 +6,23 @@
 
 <!-- REPO_URL -->
 
-Try it in the [Svelte REPL](https://svelte.dev/repl/8562c4d563724c85a7940a57499c5140?version=3.24.1).
+Try it in the [Svelte REPL](https://svelte.dev/repl/8562c4d563724c85a7940a57499c5140).
 
 ---
 
 <!-- TOC -->
 
-## Install
+## Installation
 
-This zero dependency library requires Svelte version >=3.20 because it uses `$$restProps`.
+**Yarn**
 
 ```sh
 yarn add -D svelte-super-tiny-icons
-# OR
+```
+
+**NPM**
+
+```sh
 npm i -D svelte-super-tiny-icons
 ```
 
